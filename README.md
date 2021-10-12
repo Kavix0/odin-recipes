@@ -1,0 +1,1 @@
+My current project is to create a basic recipe website. This is meant to show off my current HTML skills, including the boiler plate, basic text formatting, links, images, and lists.
